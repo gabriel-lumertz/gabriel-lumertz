@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gabriel-lumertz
+- 👋 Oi, I’m Gabriel Lumertz
 - 👀 I’m interested in Front-end
 - 🌱 I’m currently learning JS, HTML e CSS
 - 📫 How to reach me: glumertz10@gmail.com or https://www.linkedin.com/in/gabriel-lumertz-440514a1/
