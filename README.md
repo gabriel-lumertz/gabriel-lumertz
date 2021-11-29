@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @gabriel-lumertz
 - 👀 I’m interested in Front-end
-- 🌱 I’m currently learning Js, HTML e CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JS, HTML e CSS
+- 📫 How to reach me: glumertz10@gmail.com or https://www.linkedin.com/in/gabriel-lumertz-440514a1/
 
 <!---
 gabriel-lumertz/gabriel-lumertz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
