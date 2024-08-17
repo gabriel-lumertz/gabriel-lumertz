@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabriel Lumertz.
-- 👀 I’m interested in Front-end.
-- 🌱 I’m currently learning JS, HTML and CSS.
+- 👀 I’m interested in Back-end and Front-end.
+- 🌱 I’m currently learning Python, JS, HTML and CSS.
 - 📫 How to reach me: gabriel@lumertz.dev or https://www.linkedin.com/in/gabriel-lumertz.
 
 <!---
