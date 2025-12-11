@@ -1,4 +1,4 @@
-## 📊 Gabriel Lumertz - Engenheiro de Dados
+## 📊 Gabriel Lumertz
 
 Olá! Eu sou **Gabriel Lumertz**, um profissional com sólida experiência em Business Intelligence, Análise de Sistemas e modelagem de dados. Minha expertise é focada em transformar dados brutos em soluções eficientes, com ênfase na otimização de consultas e processos de ETL.
 
